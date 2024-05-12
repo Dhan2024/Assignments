@@ -1,0 +1,1 @@
+Both Question1.ipynb and Question2.ipynb are generated in response to the Assignment_1 for the Stream 3 program and relevant practice requirement purposes. Please being reminded that omissions and errors may exist while diligent efforts are made.    
